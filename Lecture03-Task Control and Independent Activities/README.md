@@ -36,7 +36,32 @@ Explain what happened when you used:
 - resume
 
 # 5. Prediction
-Include your prediction table.
+## Situation
+Normal operation
+
+### Prediction
+
+### Actual Observation
+
+### Match?
+
+## Situation
+LED task suspended
+
+### Prediction
+
+### Actual Observation
+
+### Match?
+
+## Situation
+LED task resumed
+
+### Prediction
+
+### Actual Observation
+
+### Match?
 
 # 6. State Analysis
 Explain the relevant task states.
